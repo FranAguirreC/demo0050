@@ -1,0 +1,20 @@
+esto es una prueba
+
+esta es otra modificación 
+
+/***Comando Básicos***/
+git init -> solo la primera vez, se crea una carpeta oculta llamada .git
+
+git add .   ->
+git commit -m “mensaje representativo”
+git push -u origin main
+
+git pull    -> permite bajar del repositorio los cambios 
+git pull origen main
+
+git log     -> revisar commit anteriores
+
+git diff    -> diferencia del último commit
+git status  -> ver archivos modificados
+
+/*conflictos de versionamiento, comparación de archivos (merge)*/
