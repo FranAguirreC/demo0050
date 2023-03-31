@@ -35,6 +35,7 @@ git push -u origin main /*Esta acción lo que hace es cargar la información en 
 /*conflictos de versionamiento, comparación de archivos (merge)*/
 /*Token*/ /*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*/ 
 
+/*Solo 1 vez se confirgura el mail y el usuario en el computador*/
 git config --global user.email "francort26@gmail.com"
 
 git config --global user.name "Francisco Aguirre"
