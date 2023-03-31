@@ -6,6 +6,8 @@ esta es otra modificación
 git init -> solo la primera vez, se crea una carpeta oculta llamada .git
 /*solo por una vez se va a crear la carpeta git en nuestro computador*/
 
+/*estos 3 acciones son las que debemos utilizar al ingresar a Git*/
+
 git add .   ->
 git commit -m “mensaje representativo”
 git push -u origin main
@@ -32,3 +34,7 @@ git push -u origin main /*Esta acción lo que hace es cargar la información en 
 
 /*conflictos de versionamiento, comparación de archivos (merge)*/
 /*Token*/ /*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*/ 
+
+git config --global user.email "francort26@gmail.com"
+
+git config --global user.name "Francisco Aguirre"
